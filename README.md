@@ -1,4 +1,4 @@
-test-repo
+test-repo branch 2
 =========
 
-test repo for playing around with git/github stuff
+Test repo for playing around with git/github stuff. This is branch2.
